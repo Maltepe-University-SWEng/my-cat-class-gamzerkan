@@ -5,6 +5,7 @@ public  class Simple_main {
         Cat cat1 = new Cat("Whiskers", 3);
         Cat cat2 = new Cat("Mittens", 2);
 
+
         cat1.meow();
         cat2.meow();
     }
